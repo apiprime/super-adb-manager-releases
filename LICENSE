@@ -1,0 +1,30 @@
+Copyright © 2026 ApiPrime® Software Technologies. Tüm hakları saklıdır.
+Copyright © 2026 ApiPrime® Software Technologies. All rights reserved.
+
+Super ADB Manager
+
+Bu depodaki kaynak kod ve varlıklar ApiPrime® Software Technologies'e aittir ve
+tescilli (proprietary) yazılımdır. Açık kaynak DEĞİLDİR.
+
+Uygulamanın derlenmiş sürümü (Super ADB Manager.app / .dmg) son kullanıcılara
+ÜCRETSİZ olarak sunulur ve kişisel ya da ticari amaçla kullanılabilir. Ancak
+bu depodaki kaynak kodun kopyalanması, değiştirilmesi, dağıtılması, yeniden
+lisanslanması veya türev çalışma üretilmesi, ApiPrime® Software Technologies'in
+önceden yazılı izni olmadan yasaktır.
+
+YAZILIM "OLDUĞU GİBİ" SUNULUR; AÇIK YA DA ÖRTÜLÜ HİÇBİR GARANTİ VERİLMEZ.
+KULLANIMDAN DOĞAN ZARARLARDAN ApiPrime® Software Technologies SORUMLU TUTULAMAZ.
+
+---
+
+ÜÇÜNCÜ TARAF BİLEŞENLER
+
+Uygulama paketi, kendi lisansları altında dağıtılan açık kaynaklı bileşenler
+içerir (scrcpy, adb, FFmpeg, x264, x265, libusb, libmtp, SDL2 ve diğerleri).
+Bu bileşenler yukarıdaki tescilli lisansın KAPSAMI DIŞINDADIR ve kendi
+lisans şartlarına tabidir.
+
+Ayrıntılar, tam lisans metinleri ve GPL/LGPL kaynak kodu teklifi için:
+    native/licenses/THIRD-PARTY-NOTICES.md
+
+İletişim: info@apiprime.com · https://apiprime.com
