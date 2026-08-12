@@ -24,6 +24,19 @@ Super ADB Manager is a native SwiftUI app for macOS that mirrors your Android sc
 
 ---
 
+## Screenshots
+
+<table>
+  <tr>
+    <td width="50%"><img alt="Android screen mirroring on macOS with mouse and keyboard input" src="docs/screenshots/01-mirroring.png"><br><sub><b>In-app screen mirroring</b> — scrcpy, decoded with VideoToolbox</sub></td>
+    <td width="50%"><img alt="Android file manager on Mac — browse and transfer device files" src="docs/screenshots/03-files.png"><br><sub><b>File manager</b> — browse /sdcard, drag files both ways</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img alt="One-click Android developer options from a Mac" src="docs/screenshots/05-devoptions.png"><br><sub><b>One-click developer options</b> — apply to one device or all</sub></td>
+    <td width="50%"><img alt="Android logcat viewer for macOS with priority and preset filters" src="docs/screenshots/04-logcat.png"><br><sub><b>Advanced logcat viewer</b> — live stream, filters, search</sub></td>
+  </tr>
+</table>
+
 ## Why another ADB tool?
 
 Most Mac workflows for Android still look like this: install Homebrew, `brew install android-platform-tools scrcpy`, remember the flags, keep a terminal tab open forever. And Google's old Android File Transfer is dead on modern macOS.
